@@ -1,0 +1,53 @@
+{
+  "lists": [
+    {
+      "title": "Herod Fisher",
+      "message": "The nigga accused of involuntary actions",
+      "favorite": true,
+      "color": "#d41616",
+      "id": 5
+    },
+    {
+      "title": "Zen Hitler",
+      "message": "Imagine having this name and living in a country like the United States",
+      "favorite": false,
+      "color": "#4b714e",
+      "id": 6
+    },
+    {
+      "title": "Macker Edger",
+      "message": "Who the F**k that?",
+      "favorite": true,
+      "color": "#d01b8d",
+      "id": 7
+    },
+    {
+      "title": "Hen Zitler",
+      "message": "Self proclaimed mysogynist",
+      "favorite": false,
+      "color": "#5b0a61",
+      "id": 8
+    },
+    {
+      "title": "Jon Zherka",
+      "message": "Self proclaimed anti semit",
+      "favorite": true,
+      "color": "#a15e92",
+      "id": 9
+    },
+    {
+      "title": "Mack Wilhberg",
+      "message": "A american actor",
+      "favorite": true,
+      "color": "#1a7ebc",
+      "id": 10
+    },
+    {
+      "title": "Marco Polo",
+      "message": "This is a wording I can't quite remember the meaning of. Seriously!!",
+      "favorite": false,
+      "color": "#cacd1d",
+      "id": 11
+    }
+  ]
+}

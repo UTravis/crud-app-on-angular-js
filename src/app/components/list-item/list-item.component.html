@@ -1,0 +1,19 @@
+<li class="list-group-item d-flex justify-content-between align-items-start">
+  <div class="ms-2 me-auto">
+    <div class="fw-bold" [ngStyle]="{ color: listItem.color }">
+      {{ listItem.title }}
+    </div>
+    {{ listItem.message }}
+  </div>
+  <fa-icon
+    style="color: red;"
+    [icon]="faTrashCan"
+    (click)="delBtn(listItem.id)"
+  ></fa-icon>
+  <fa-icon
+    style="color: blue; margin-left: 10px;"
+    [icon]="faEdit"
+    (click)="editBtn(listItem)"
+  ></fa-icon>
+</li>
+
