@@ -1,6 +1,7 @@
 <app-forms (sbtEmitter)="add($event)" btnCaption="Add"></app-forms>
 <ul class="list-group list-group-flush mt-5">
   <app-list-item
+    @fade
     *ngFor="let list of lists"
     [listItem]="list"
     (delEmitter)="delList($event)"
